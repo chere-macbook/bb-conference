@@ -1,4 +1,3 @@
-require 'forwardable'
 require 'time'
 
 class Schedule
